@@ -3,8 +3,8 @@
 <div align="center">
  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=arthurzica&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arthurzica&layout=compact&langs_count=7&theme=dracula"/>
- <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=arthurzica&theme=dark" alt="arthurzica" /></p>
 </div>
+ <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=arthurzica&theme=dark" alt="arthurzica" /></p>
 - 🔭 I’m currently working on **Visicomp**
 
 - 🌱 I’m currently learning **Javascript/React/PHP/Nodejs**
