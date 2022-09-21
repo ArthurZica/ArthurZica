@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Arthur</h1>
 <h3 align="center">A Web/Java developer from Brazil.</h3>
 <div>
- <img height="180em" width="45%" src="https://github-readme-stats.vercel.app/api?username=arthurzica&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
- <img height="180em" width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arthurzica&layout=compact&langs_count=7&theme=dracula"/>
+ <img height="180em" src="https://github-readme-stats.vercel.app/api?username=arthurzica&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+ <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arthurzica&layout=compact&langs_count=7&theme=dracula"/>
 </div>
  <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=arthurzica&theme=dark" alt="arthurzica" /></p>
 - 🔭 I’m currently working on **Visicomp**
