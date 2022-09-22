@@ -5,7 +5,7 @@
  <img   width="48%" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arthurzica&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
-- 🔭 I’m currently working on **Visicomp**
+- 🔭 I’m currently working on **Planet Software**
 
 - 🌱 I’m currently learning **Javascript/React/PHP/Nodejs**
 
