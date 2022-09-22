@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **arthuraugustozica@gmail.com**
 
-- 📄 Know about my experiences i am now studying system information in PUC Minas, i have studied industrial automation in Senai, and i i'm working now in a company named visicomp.
+- 📄 Know about my experiences: **i am now studying system information in PUC Minas, i have studied industrial automation in Senai, and i i'm working now in a company named visicomp.**
 
 
 <h3 align="left">Languages and Tools:</h3>
