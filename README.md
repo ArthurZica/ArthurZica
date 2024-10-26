@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **arthuraugustozica@gmail.com**
 
-- 📄 Know about my experiences: **i am now studying system information in PUC Minas, i have studied industrial automation in Senai, and i i'm working now in a company named planetfone.**
+- 📄 Know about my experiences: **i am now studying system information in PUC Minas, i have studied industrial automation in Senai, and i i'm working now in a company named Aglets Soluções.**
 
 
 ![](./profile-3d-contrib/profile-night-rainbow.svg)
